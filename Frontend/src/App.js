@@ -123,7 +123,7 @@ function App() {
                         </LoadingButton> 
                     </div> 
                 </CardContent> 
-            </Card > 
+            </Card> 
         </div>
     );
 }
