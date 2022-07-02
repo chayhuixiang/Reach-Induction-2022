@@ -8,12 +8,12 @@
 - setup(), loop()
 - digitalWrite()
 - Serial monitor
-4. Arduino Demos [Code](./Arduino_Demo/) [5mins]
+3. Arduino Demos [Code](./Arduino_Demo/) [5mins]
 - OLED Demo
-6. Backend [Code](./Backend/) [10mins]
+4. Backend [Code](./Backend/) [10mins]
 - APIs (GET, POST, DELETE)
 - Postman
 - Express
-8. Frontend [Code](./Frontend/) [10mins]
+5. Frontend [Code](./Frontend/) [10mins]
 - React
 - Material UI
