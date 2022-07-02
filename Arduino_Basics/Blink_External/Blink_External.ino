@@ -1,4 +1,4 @@
-const int LED_PIN = 3;
+const int LED_PIN = 23;
 
 // the setup function runs once when you press reset or power the board
 void setup() {
